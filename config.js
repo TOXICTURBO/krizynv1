@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://instagram.com/mhdfakri_'
-gc2 = 'https://www.youtube.com/c/HokenBeusz'
-gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
-global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['62895328590064','62895327934887'] // Put your number here //owner eval
-global.kontak = ['62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
-global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+gc1 = 'https://instagram.com/toxic-turbo777'
+gc2 = 'https://www.youtube.com/c/TurboMods'
+gc3 = 'https://githun.com/TURBOHYPER'
+global.linkGC = ['https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp', ''] // ganti jadi group lu
+global.owner = ['916380260672','919995801023'] // Put your number here //owner eval
+global.kontak = ['916380260672','919995801023'] //Ketika ada yang ngetik #owner
+global.mods = ['916380260672','919995801023'] // Want some help?
+global.prems = ['916380260672','919995801023'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -58,46 +58,46 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'GAK ADA :)'
-namagithub = 'GAK ADA :)'
-kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+namaig = 'toxic_turbo777 :)'
+namagithub = 'TURBOHYPER'
+kasihcaption = `*If you have given it, what do you say?*`
+namakontak1 = 'Turbo Mods'
+namakontak2 = 'Turbo Mods'
 
 //kasihcaption = `Kalau udah dikasih, bilang apa?`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = 'Turbo Mods' // ganti aja
+global.author = 'Turbo Mods' // ganti aja
 
 //yyy
 '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+footer = 'Turbo Mods' // Broadcast
+footer = 'Turbo Mods'
+namabot = 'Turbo Mods'
+namalu = 'Turbo Mods'
 
 
 // 
-wait = '⏳𝙎𝙚𝙙𝙖𝙣𝙜 𝙙𝙞𝙥𝙧𝙤𝙨𝙚𝙨...'
-global.wait = '⏳𝙎𝙚𝙙𝙖𝙣𝙜 𝙙𝙞𝙥𝙧𝙤𝙨𝙚𝙨...'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+wait = '⏳being processed...'
+global.wait = '⏳being processed...'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '❗𝙎𝙚𝙧𝙫𝙚𝙧 𝙀𝙧𝙧𝙤𝙧...'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '𝙆𝙧𝙞𝙯𝙮𝙣×͜× ' //change the watermark 
-global.image = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg' //change the image
-global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
+global.watermark = 'Turbo Mods ' //change the watermark 
+global.image = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg' //change the image
+global.thumbfoto = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg'
 
 // image
-global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
-global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
-global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
-global.thanks = 'https://telegra.ph/file/01917f7782b70de8f418d.jpg'
+global.bank = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg'
+global.kandang = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg'
+global.kolam = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg'
+global.thanks = 'https://telegra.ph/file/56c7adc490d2797f7efc6.jpg'
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 36 // The higher, The harder levelup
+global.multiplier = 100 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
